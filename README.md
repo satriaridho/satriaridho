@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **BluePinWheel, Knthree Dev**
 
-- 📚 I’m currently learning **Python, JavaScript, Laravel, Flask**
+- 📚 I’m currently learning **JavaScript, Laravel, Flask**
 
 - 🏫 I’m currently student on **Universitas Teknologi Yogyakarta**
 
